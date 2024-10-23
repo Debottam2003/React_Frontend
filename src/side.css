@@ -1,0 +1,28 @@
+.side{
+    background-image: url("https://images.pexels.com/photos/1144687/pexels-photo-1144687.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 1rem;
+    padding: 0;
+    margin: 0;
+    width: 300px;
+    height: inherit;
+    text-align: center;
+}
+h6{ 
+    background-color: rgba(255, 255, 255, 0.281);
+    margin:0.5px;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    font-size: 1rem;
+    padding: 1rem;
+    border-radius: 5px;
+}
+a{
+    margin:0.5px;
+    text-decoration: none;
+}
+.b:hover{
+    opacity: 0.7;
+}

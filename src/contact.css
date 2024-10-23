@@ -1,0 +1,11 @@
+.contact{
+    width: 100%;
+    height: 650px;
+    background-image: url('https://media.istockphoto.com/id/1129113667/photo/got-a-problem-contact-us.webp?s=2048x2048&w=is&k=20&c=ss2kdZ0_Vemn4f7dwN6GIwNNKJOxrFxdPfRpsu4l_Bo=');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: cursive;
+}

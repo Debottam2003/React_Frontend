@@ -1,0 +1,10 @@
+.login{
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://media.istockphoto.com/id/1426988809/photo/security-password-login-online-concept-hands-typing-and-entering-username-and-password-of.webp?s=2048x2048&w=is&k=20&c=IYzGLdHy2-JbXhNATpodja-aLZtBwj8WutJ6z4JdlYc=');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: cursive;
+}
